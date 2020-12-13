@@ -1,4 +1,6 @@
 //#include "lv_conf_v7.h"
+//#define LV_THEME_DEFAULT_FLAGS LV_THEME_DEFAULT_FLAG
+
 #include "lv_conf_v8.h"
 
 #ifndef LV_CONF_STUB_H
